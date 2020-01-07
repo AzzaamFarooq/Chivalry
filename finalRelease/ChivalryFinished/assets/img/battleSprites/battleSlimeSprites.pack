@@ -1,0 +1,32 @@
+battleSlimeSprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stationary
+  rotate: false
+  xy: 0, 0
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 38, 0
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1 
+attack
+  rotate: false
+  xy: 183, 0
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+defend
+  rotate: false
+  xy: 117, 0
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

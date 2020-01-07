@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/libGDX"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libGDX/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-box2d-natives.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-box2d.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-controllers-desktop-natives.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-controllers-desktop.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-controllers.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="libGDX/gdx.jar"/>
+	<classpathentry kind="lib" path="libGDX/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="libGDX/tween-engine-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

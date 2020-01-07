@@ -1,0 +1,46 @@
+battlePlayerSprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stationary
+  rotate: false
+  xy: 0, 0
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 92, 0
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1 
+attack
+  rotate: false
+  xy: 181, 0
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 246, 0
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1   
+attack
+  rotate: false
+  xy: 309, 0
+  size: 114, 90
+  orig: 114, 90
+  offset: 0, 0
+  index: -1
+defend
+  rotate: false
+  xy: 438, 0
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1

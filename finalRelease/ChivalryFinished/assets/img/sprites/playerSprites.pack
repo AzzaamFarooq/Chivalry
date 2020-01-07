@@ -1,0 +1,96 @@
+
+playerSprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+left
+  rotate: false
+  xy: 0, 52
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 32, 52
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 67, 53
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 0, 99
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 35, 99
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 70, 98
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 0, 150
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 34, 150
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 69, 150
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1 
+down
+  rotate: false
+  xy: 0, 0
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 33, 0
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 68, 0
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1 
+stationary
+  rotate: false
+  xy: 33, 0
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1

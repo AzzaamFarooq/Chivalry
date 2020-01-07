@@ -1,0 +1,39 @@
+battleBatSprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stationary
+  rotate: false
+  xy: 0, 0
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 87, 0
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1 
+attack
+  rotate: false
+  xy: 157, 0
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+attack
+  rotate: false
+  xy: 212, 0
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1   
+defend
+  rotate: false
+  xy: 311, 0
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1

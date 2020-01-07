@@ -1,0 +1,39 @@
+battleBossSprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stationary
+  rotate: false
+  xy: 0, 0
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 196, 0
+  size: 73, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 90, 0
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: -1  
+attack
+  rotate: false
+  xy: 269, 0
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+defend
+  rotate: false
+  xy: 367, 0
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1

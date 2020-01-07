@@ -1,0 +1,32 @@
+batSprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stationary
+  rotate: false
+  xy: 0, 0
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 49, 0
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 96, 0
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+stationary
+  rotate: false
+  xy: 49, 0
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1  
